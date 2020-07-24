@@ -3,10 +3,10 @@ import time
 from iqoptionapi.stable_api import IQ_Option
 import json
 from datetime import datetime
-API = IQ_Option("botoptionspython@gmail.com","botpython")
+API = IQ_Option("email","senha")
 API.connect()
 
-bot = telebot.TeleBot('1299702603:AAGHZhYXguSKQSR4KvmzR68OOu-uIpu_Mvk')
+bot = telebot.TeleBot('token')
 
 @bot.message_handler(commands=['analitic'])
 def analitic(session):
