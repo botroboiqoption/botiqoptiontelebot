@@ -3,7 +3,7 @@ Bot enviado indicadores técnico para Telegram.
 
 
 Fala galera, bot do telegram enviando indicadores técnico por mensagem.
-Deixe seu Link e sem escreva.
+
 
 API FARIA 
 https://github.com/iqoptionapi/iqoptionapi/ 
@@ -15,3 +15,8 @@ Criar e pegar token Telegram
 @botfather
 
 
+Passo a Passo
+
+https://youtu.be/v9o1PqzJlPk
+
+Deixe seu Link e sem escreva.
